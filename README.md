@@ -6,6 +6,8 @@
 * Python
 * Pandas
 * C++
+* Basic SQL
+* HTML CSS
 * R (currently still learning)
 * Excel, Spreadsheets
 * Mental Arithmetic Calculation
