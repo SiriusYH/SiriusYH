@@ -28,3 +28,9 @@
 * [IMONST2.pdf](https://github.com/SiriusYH/SiriusYH/files/7531496/IMONST2.pdf)
 * ![8th National Science and Math Quiz](https://user-images.githubusercontent.com/64475165/141608315-d6d7c8ff-5a4d-45d7-b4fa-93d4022033cd.jpg)
 * [IMU-Challenge-Top 200 (School)-Certificate.pdf](https://github.com/SiriusYH/SiriusYH/files/7531497/IMU-Challenge-Top.200.School.-Certificate.pdf)
+
+## Goals
+- Enhancing Data Analyzing Skills
+- Enhancing Deep Learning Skills
+- Enhancing Math Skills
+- Looking forward to enroll Google Data Analytics training
