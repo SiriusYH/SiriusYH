@@ -7,9 +7,11 @@
 * Pandas
 * C++
 * Basic SQL
+* Basic Tensorflow
 * HTML CSS
 * R (currently still learning)
 * Excel, Spreadsheets
+* Tableau
 * Mental Arithmetic Calculation
 
 ## **Achievement**
