@@ -35,4 +35,4 @@
 - Enhancing Data Analyzing Skills
 - Enhancing Deep Learning Skills
 - Enhancing Math Skills
-- Looking forward to enroll Google Data Analytics training
+- Google Data Analytics in progress
