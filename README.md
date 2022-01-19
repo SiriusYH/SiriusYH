@@ -1,4 +1,4 @@
-# I am currently a Senior 2 Science student in [Foon Yew High School Kulai](http://www.fyk.edu.my/). 
+# I am currently a Senior 3 Science 1 student in [Foon Yew High School Kulai](http://www.fyk.edu.my/). 
 ### Two years of experience in school Informatics Representative Team and currently the captain of the team.
 ### I am highly interested in Machine Learning, analysing stuff, Mathematics and Science.
 
@@ -12,6 +12,7 @@
 * R (currently still learning)
 * Excel, Spreadsheets
 * Tableau
+* Competitive Programming
 * Mental Arithmetic Calculation
 
 ## **Achievement**
