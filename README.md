@@ -40,4 +40,4 @@
 - Enhancing Data Analyzing Skills
 - Enhancing Deep Learning Skills
 - Enhancing Math Skills
-- Google Data Analytics in progress
+- Google Data Analytics in progress (2/8 done)
