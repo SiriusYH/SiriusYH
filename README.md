@@ -23,7 +23,7 @@
 * Selected into International Mathematical Olympiad National Selection Test 2021 (IMONST2)
 * IMU Challenge 2021 (International Medical University)(National Level) [Top 200 Finalist]
 * Malaysian Computing Challenge by [MIPS](https://ioimalaysia.org/) - Intermediate Category [SILVER]
-* Malaysia Computational Linguistic Olympiad -2022 [GOLD](https://myclo.my)
+* Malaysia Computational Linguistic Olympiad -2022 [GOLD](https://myclo.my) (https://drive.google.com/file/d/1cVEy0FLJS5WXFJylc2rHYuMm7aXf13yX/view)
 * Chen Jingrun’s Cup Secondary School Mathematics Competition 2021 - Senior Individual Category [CREDIT]
 * [MCC2021.pdf](https://github.com/SiriusYH/SiriusYH/files/7531492/MCC2021.pdf)
 * [Beaver2021.pdf](https://github.com/SiriusYH/SiriusYH/files/7531493/Beaver2021.pdf)
