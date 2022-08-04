@@ -23,10 +23,12 @@
 * International Mathematical Olympiad National Selection Test 2021 (IMONST1) - Senior [SILVER]
 * Selected into International Mathematical Olympiad National Selection Test 2021 (IMONST2)
 * IMU Challenge 2021 (International Medical University)(National Level) [Top 200 Finalist]
-* Malaysian Computing Challenge by [MIPS](https://ioimalaysia.org/) - Intermediate Category [SILVER]
+* Malaysian Computing Challenge 2021 by [MIPS](https://ioimalaysia.org/) - Intermediate Category [SILVER]
 * Malaysia Computational Linguistic Olympiad -2022 [GOLD](https://myclo.my) (https://drive.google.com/file/d/1cVEy0FLJS5WXFJylc2rHYuMm7aXf13yX/view)
-* Tsing Hua GSS 2022![Excellentstudent](https://user-images.githubusercontent.com/64475165/182843599-fef89852-d00b-4134-af17-cedac14b8f48.jpg)
+* International Mathematical Olympiad National Selection Test 2022 (IMONST1) - Senior [HONORABLE MENTION]
+* TsingHua Summer Camp-Certified as Excellent Student
 * Chen Jingrun’s Cup Secondary School Mathematics Competition 2021 - Senior Individual Category [CREDIT]
+* Tsing Hua GSS 2022![Excellentstudent](https://user-images.githubusercontent.com/64475165/182843599-fef89852-d00b-4134-af17-cedac14b8f48.jpg)
 * [MCC2021.pdf](https://github.com/SiriusYH/SiriusYH/files/7531492/MCC2021.pdf)
 * [Beaver2021.pdf](https://github.com/SiriusYH/SiriusYH/files/7531493/Beaver2021.pdf)
 * [ChenJingrun's Cup.pdf](https://github.com/SiriusYH/SiriusYH/files/7531494/ChenJingrun.s.Cup.pdf)
