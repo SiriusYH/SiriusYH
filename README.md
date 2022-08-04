@@ -24,12 +24,14 @@
 * IMU Challenge 2021 (International Medical University)(National Level) [Top 200 Finalist]
 * Malaysian Computing Challenge by [MIPS](https://ioimalaysia.org/) - Intermediate Category [SILVER]
 * Malaysia Computational Linguistic Olympiad -2022 [GOLD](https://myclo.my) (https://drive.google.com/file/d/1cVEy0FLJS5WXFJylc2rHYuMm7aXf13yX/view)
+* Tsing Hua GSS 2022![Excellentstudent](https://user-images.githubusercontent.com/64475165/182843599-fef89852-d00b-4134-af17-cedac14b8f48.jpg)
 * Chen Jingrun’s Cup Secondary School Mathematics Competition 2021 - Senior Individual Category [CREDIT]
 * [MCC2021.pdf](https://github.com/SiriusYH/SiriusYH/files/7531492/MCC2021.pdf)
 * [Beaver2021.pdf](https://github.com/SiriusYH/SiriusYH/files/7531493/Beaver2021.pdf)
 * [ChenJingrun's Cup.pdf](https://github.com/SiriusYH/SiriusYH/files/7531494/ChenJingrun.s.Cup.pdf)
 * [IMONST 1.pdf](https://github.com/SiriusYH/SiriusYH/files/7531495/IMONST.1.pdf)
 * [IMONST2.pdf](https://github.com/SiriusYH/SiriusYH/files/7531496/IMONST2.pdf)
+* [FOON_YEW_HIGH_SCHOOL_-_KULAI_WONG_YEN_HENG_213876.pdf](https://github.com/SiriusYH/SiriusYH/files/9259530/FOON_YEW_HIGH_SCHOOL_-_KULAI_WONG_YEN_HENG_213876.pdf) 
 * [APLO 2022 Invitation Letter - WONG YEN HENG.pdf](https://github.com/SiriusYH/SiriusYH/files/8388774/APLO.2022.Invitation.Letter.-.WONG.YEN.HENG.pdf)
 * ![8th National Science and Math Quiz](https://user-images.githubusercontent.com/64475165/141608315-d6d7c8ff-5a4d-45d7-b4fa-93d4022033cd.jpg)
 * [IMU-Challenge-Top 200 (School)-Certificate.pdf](https://github.com/SiriusYH/SiriusYH/files/7531497/IMU-Challenge-Top.200.School.-Certificate.pdf)
