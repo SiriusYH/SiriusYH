@@ -1,5 +1,5 @@
 # I am currently a Senior 3 Science 1 student in [Foon Yew High School Kulai](http://www.fyk.edu.my/). 
-### Two years of experience in school Informatics Representative Team and currently the captain of the team.
+### Three years of experience in school Informatics Representative Team and currently the captain of the team.
 ### I am highly interested in Machine Learning, analysing stuff, Mathematics and Science.
 
 ## **Skills I Have**
@@ -24,10 +24,13 @@
 * Selected into International Mathematical Olympiad National Selection Test 2021 (IMONST2)
 * IMU Challenge 2021 (International Medical University)(National Level) [Top 200 Finalist]
 * Malaysian Computing Challenge 2021 by [MIPS](https://ioimalaysia.org/) - Intermediate Category [SILVER]
+* Chen Jingrun’s Cup Secondary School Mathematics Competition 2021 - Senior Individual Category [CREDIT]
 * Malaysia Computational Linguistic Olympiad -2022 [GOLD](https://myclo.my) (https://drive.google.com/file/d/1cVEy0FLJS5WXFJylc2rHYuMm7aXf13yX/view)
 * International Mathematical Olympiad National Selection Test 2022 (IMONST1) - Senior [HONORABLE MENTION]
 * TsingHua Summer Camp-Certified as Excellent Student
-* Chen Jingrun’s Cup Secondary School Mathematics Competition 2021 - Senior Individual Category [CREDIT]
+* Chen Jingrun's Cup Secondary School Mathematics Competition 2022 - Senior Individual Category [DISTINCTION]
+* National Secondary School Programming Contest (NSSPC) - Qualified to final round (ONGOING)
+
 * Tsing Hua GSS 2022![Excellentstudent](https://user-images.githubusercontent.com/64475165/182843599-fef89852-d00b-4134-af17-cedac14b8f48.jpg)
 * [MCC2021.pdf](https://github.com/SiriusYH/SiriusYH/files/7531492/MCC2021.pdf)
 * [Beaver2021.pdf](https://github.com/SiriusYH/SiriusYH/files/7531493/Beaver2021.pdf)
