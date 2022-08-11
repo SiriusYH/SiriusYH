@@ -10,8 +10,9 @@
 * Basic Tensorflow
 * HTML CSS
 * R (currently still learning)
+* Basic Java
 * Excel, Spreadsheets
-* Tableau
+* Tableau (currently still learning)
 * Basic Skills of Data Analytics
 * Competitive Programming
 * Mental Arithmetic Calculation
