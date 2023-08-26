@@ -14,10 +14,5 @@
 * Basic Java
 * Excel, Spreadsheets
 * Tableau (currently still learning)
-* Basic Skills of Data Analytics
+* Basic Skills in Data Analytics
 * Competitive Programming
-
-## Currently Learning
-- Image Processing (DL)
-- Deep Learning Skills
-- Google Data Analytics
