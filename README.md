@@ -1,13 +1,14 @@
-# Studying in NTU
+# Nanyang Technological University EEDA Student
 ### Three years of experience in the high school Informatics Team and was the team's captain.
 
 ## **Skills**
-* Python (Data Science Area)
+* Python (Data Science and Machine Learning)
 * C++
-* Basic SQL
+* SQL (BigQuery, MySQL)
 * Basic GoLang
-* Basic Tensorflow
-* Basic Java
+* Basic Tensorflow, SKLearn, SciPy, Numpy, Pandas, Matplotlib, PyTorch (Applied DS)
 * Excel, Spreadsheets
 * Tableau, Power BI
+* Computer Vision (Basic)
+  * CVAT, VoTT, OpenCV, PyTorch
 * Competitive Programming
